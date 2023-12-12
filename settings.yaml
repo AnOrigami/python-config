@@ -1,0 +1,8 @@
+listen:
+  port: 8000
+mongodb:
+  dsn: mongodb://192.168.17.131:27017
+  db: desensitization_platform
+redis:
+  dsn: redis://192.168.17.131:6379
+  db: 2
